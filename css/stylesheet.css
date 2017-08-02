@@ -1,0 +1,42 @@
+/** {
+    border: 0.1px dashed black;
+}*/
+
+body {
+    background-color: royalblue;
+    text-align: center;
+}
+#title {
+    font-size: 24px;
+    margin-top: 20px;
+}
+#center {
+    position: relative;
+    margin-top: 40px;
+    border-radius: 20px;
+}
+p {
+    margin-top: 20px;
+}
+a:link {
+    text-decoration: none;
+    color: black;
+}
+a:visited {
+    color: black;
+}
+#results div {
+    font-size: 22px;
+    font-family: Calibri, serif;
+    margin-bottom: 30px;
+    background-color: azure;
+    border-radius: 15px;
+}
+#results div p {
+    font-size: 14px;
+    font-family: "Book Antiqua", serif;
+
+}
+
+
+
